@@ -1,0 +1,20 @@
+{
+  "name": "adobe-plugin-skill",
+  "metadata": {
+    "description": "Adobe UXP plugin development skill for Claude Code. Scaffold, build, debug, and ship InDesign (and other Creative Cloud) plugins."
+  },
+  "owner": {
+    "name": "Vlad Savruk"
+  },
+  "plugins": [
+    {
+      "name": "adobe-plugin-dev",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Build Adobe Creative Cloud plugins with UXP. Includes SKILL.md + InDesign reference + shared UXP patterns.",
+      "author": {
+        "name": "Vlad Savruk"
+      }
+    }
+  ]
+}
