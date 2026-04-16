@@ -15,8 +15,8 @@ Scaffold, build, debug, and ship InDesign plugins (extensible to Photoshop, Illu
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add nic3rafs/adobe-plugin-skill
-/plugin install adobe-plugin-dev@adobe-plugin-skill
+/plugin marketplace add nic3rafs/adobe-plugin-dev
+/plugin install adobe-plugin-dev@adobe-plugin-dev
 ```
 
 ## Usage

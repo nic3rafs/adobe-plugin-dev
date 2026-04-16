@@ -1,5 +1,5 @@
 {
-  "name": "adobe-plugin-skill",
+  "name": "adobe-plugin-dev",
   "metadata": {
     "description": "Adobe UXP plugin development skill for Claude Code. Scaffold, build, debug, and ship InDesign (and other Creative Cloud) plugins."
   },
