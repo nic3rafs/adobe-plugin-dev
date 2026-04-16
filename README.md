@@ -15,11 +15,9 @@ Scaffold, build, debug, and ship InDesign plugins (extensible to Photoshop, Illu
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add vldsvrk/adobe-plugin-skill
+/plugin marketplace add nic3rafs/adobe-plugin-skill
 /plugin install adobe-plugin-dev@adobe-plugin-skill
 ```
-
-Replace `vldsvrk` with the GitHub owner once published.
 
 ## Usage
 
