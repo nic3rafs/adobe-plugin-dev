@@ -5,5 +5,6 @@
   "author": {
     "name": "Vlad Savruk"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "skills": ["./skills/adobe-plugin-dev"]
 }
