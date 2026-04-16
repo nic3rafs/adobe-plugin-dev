@@ -5,11 +5,5 @@
   "author": {
     "name": "Vlad Savruk"
   },
-  "license": "MIT",
-  "skills": [
-    {
-      "name": "adobe-plugin-dev",
-      "description": "Use when the user wants to create, scaffold, build, debug, or publish a UXP plugin for any Adobe Creative Cloud app (InDesign, Photoshop, Illustrator, Premiere Pro, After Effects). Triggers on mentions of UXP, CEP migration, Adobe extensions, scripts, or panels."
-    }
-  ]
+  "license": "MIT"
 }
